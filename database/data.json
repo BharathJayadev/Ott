@@ -1,0 +1,152 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "moviename": "kantara",
+      "hero": "Rishab",
+      "heroine": "sapthami gowda",
+      "director": "Rishab shetty",
+      "languages": [
+        "kannada",
+        "Telugu",
+        "Tamil",
+        "Malayalam"
+      ],
+      "genre": "divine",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6DbNTn8YF0tXT9SsHeu_XFwZZ2Ifrjqud1w&usqp=CAU",
+      "trailer": "https://www.youtube.com/embed/ppYoIoW73PI",
+      "releaseYear": "2022",
+      "rating": "9.5",
+      "synopsis": "A fiery young man clashes with an unflinching forest officer in a south indian village where spirituality,fate and folklore rule the lands."
+    },
+    {
+      "id": 2,
+      "moviename": "KGF",
+      "hero": "Yash",
+      "heroine": "Sreenidhi shettu",
+      "director": "Prashanth neel",
+      "languages": [
+        "kannada",
+        "Telugu",
+        "Tamil",
+        "Malayalam"
+      ],
+      "genre": "Action",
+      "poster": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2020/07/29/Sanjay-Dutt-First-Look-HD-Posters-as-adheera-From-KGF-Chapter-2-released-1.jpg?quality=80&zoom=1&ssl=1",
+      "trailer": "https://www.youtube.com/embed/Qah9sSIXJqk",
+      "releaseYear": "2020",
+      "rating": "9.0",
+      "synopsis": "Rocky, a young man, seeks power and wealth in order to fulfil a promise to his dying mother. His quest takes him to Mumbai, where he becomes involved with the notorious gold mafia."
+    },
+    {
+      "id": 3,
+      "moviename": "Justice League",
+      "hero": "Henry Caville",
+      "heroine": "Gall gadot",
+      "director": "Zack snydar",
+      "languages": [
+        "English"
+      ],
+      "genre": "Action",
+      "poster": "https://www.wallpaperflare.com/static/499/333/149/justice-league-movie-batman-wonder-woman-wallpaper.jpg",
+      "trailer": "https://www.youtube.com/embed/3cxixDgHUYw",
+      "releaseYear": "2017",
+      "rating": "7",
+      "synopsis": "Fuelled by his restored faith in humanity, and inspired by Superman's selfless act, Bruce Wayne enlists newfound ally Diana Prince to face an even greater threat. Together, Batman and Wonder Woman work quickly to recruit a team to stand against this newly-awakened enemy. Despite the formation of an unprecedented league of heroes in Batman, Wonder Woman, Aquaman, Cyborg and the Flash, it may be too late to save the planet from an assault of catastrophic proportions."
+    },
+    {
+      "id": 4,
+      "moviename": "Love Mocktail",
+      "hero": "Krishna",
+      "heroine": "milana nagraj",
+      "director": "Darling krishna",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "Romantic",
+      "poster": "https://a10.gaanacdn.com/images/albums/25/5360325/crop_480x480_5360325.jpg",
+      "trailer": "https://www.youtube.com/embed/IsEdANxZD3c",
+      "releaseYear": "2018",
+      "rating": "8.0",
+      "synopsis": "After rescuing a woman, Adi reminisces about his love life and tells her about all the heartbreaks he endured in his quest to find his true love."
+    },
+    {
+      "id": 5,
+      "moviename": "RRR",
+      "hero": "NTR junior",
+      "heroine": "Alia butt",
+      "director": "Rajmouli",
+      "languages": [
+        "Telugu",
+        "Tamil",
+        "Hindi"
+      ],
+      "genre": "history",
+      "poster": "https://cdn.gulte.com/wp-content/uploads/2021/03/RRR-2.jpg",
+      "trailer": "https://www.youtube.com/embed/2_BkCz3OnlY",
+      "releaseYear": "2020",
+      "rating": "8.5",
+      "synopsis": "A fearless revolutionary and an officer in the British force, who once shared a deep bond, decide to join forces and chart out an inspirational path of freedom against the despotic rulers."
+    },
+    {
+      "id": 6,
+      "moviename": "Wonder Women",
+      "hero": "Chris pine",
+      "heroine": "Gall gadot",
+      "director": "Patty Jenkins",
+      "languages": [
+        "English"
+      ],
+      "genre": "Action",
+      "poster": "https://www.themoviedb.org/t/p/original/8AQRfTuTHeFTddZN4IUAqprN8Od.jpg",
+      "trailer": "https://www.youtube.com/embed/1Q8fG0TtVAY",
+      "releaseYear": "2017",
+      "rating": "8.5",
+      "synopsis": "Before she was Wonder Woman (Gal Gadot), she was Diana, princess of the Amazons, trained to be an unconquerable warrior. Raised on a sheltered island paradise, Diana meets an American pilot (Chris Pine) who tells her about the massive conflict that's raging in the outside world. Convinced that she can stop the threat, Diana leaves her home for the first time. Fighting alongside men in a war to end all wars, she finally discovers her full powers and true destiny."
+    },
+    {
+      "id": 7,
+      "moviename": "Aquaman",
+      "hero": "Json momoa",
+      "heroine": "Amber heard",
+      "director": "James wan",
+      "languages": [
+        "English"
+      ],
+      "genre": "Action",
+      "poster": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8971ab4e-777c-4897-b797-ddc3448e6bda/dcokk28-a42dd4e7-3a4f-4394-8461-f032ce5258a9.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg5NzFhYjRlLTc3N2MtNDg5Ny1iNzk3LWRkYzM0NDhlNmJkYVwvZGNva2syOC1hNDJkZDRlNy0zYTRmLTQzOTQtODQ2MS1mMDMyY2U1MjU4YTkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ynd2n4y9jT04ujbg6f3elkRdXtKcdCyJr-h6fKLhx-A",
+      "trailer": "https://www.youtube.com/embed/2wcj6SrX4zw",
+      "releaseYear": "2018",
+      "rating": "8",
+      "synopsis": "Once home to the most advanced civilization on Earth, the city of Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people -- and then the surface world. Standing in his way is Aquaman, Orm's half-human, half-Atlantean brother and true heir to the throne. With help from royal counselor Vulko, Aquaman must retrieve the legendary Trident of Atlan and embrace his destiny as protector of the deep."
+    },
+    {
+      "moviename": "asfa",
+      "hero": "asfds",
+      "heroine": "gffgd",
+      "director": "qwretrtytjgf",
+      "genre": "sdtgf",
+      "poster": "fhgkjghfgfds",
+      "trailer": "dfjhknjgjfhfg",
+      "release": "2000",
+      "rating": "10",
+      "synopsis": "asdfghf",
+      "languages": [],
+      "id": 8
+    },
+    {
+      "moviename": "asfa",
+      "hero": "asfds",
+      "heroine": "gffgd",
+      "director": "qwretrtytjgf",
+      "genre": "sdtgf",
+      "poster": "fhgkjghfgfds",
+      "trailer": "dfjhknjgjfhfg",
+      "release": "2000",
+      "rating": "10",
+      "synopsis": "asdfghf",
+      "languages": [],
+      "id": 9
+    }
+  ]
+}
