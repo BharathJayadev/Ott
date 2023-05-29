@@ -31,7 +31,7 @@ const AddMovie = () => {
       console.log(newMovie);    
       let options = document.getElementsByName("lang");
       for(let i=0;i<options.length;i++){
-        if(options.checked==false){
+        if(options.checked==true){
             newMovie.languages.push(options[i].value)
         }
       }
