@@ -1,0 +1,19 @@
+name: ci cd pipleine
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build:
+    runs-on: ubuntu-latest
+      steps:
+        - name: checkout the code
+          uses: actions/checkout@v3
+        - name: set up node js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 16
+        - name: install npm
+          run: npm install
+        - name: deploy
+          run: npm run
